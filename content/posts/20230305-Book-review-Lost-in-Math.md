@@ -22,7 +22,7 @@ There are much more solid points like these in the book, and it always blows my 
 
 What's more, I truly appreciate her honesty and bravery. She knows clearly that she is almost exclusively going to face a witch hunt after writing this book, but this is her true feelings after decades of research on particle physics. And there is that.
 
-I think I have refound what got me into physics in the first place, though I can't tell what it is exactly. I can't wait to go on yet another Odyssey with her next book: [_Existential Physics: A Scientist's Guide to Life's Biggest Questions_](https://www.amazon.com/Existential-Physics-Scientists-Biggest-Questions/dp/1984879456). I'm a big fan of Jean-Paul Sartre and Existentialism, maybe that would show up. 
+I think I have refound what got me into physics in the first place, though I can't tell what it is exactly. I can't wait to go on yet another Odyssey with her next book: [_Existential Physics: A Scientist's Guide to Life's Biggest Questions_](https://www.amazon.com/Existential-Physics-Scientists-Biggest-Questions/dp/1984879456). I'm a big fan of Jean-Paul Sartre and Existentialism, maybe they would show up. 
 
 I know there are a lot of questions, and I want to deal with them.
 
