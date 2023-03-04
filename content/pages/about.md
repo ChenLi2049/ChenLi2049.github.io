@@ -2,18 +2,6 @@
 title: About
 ---
 
-**Maverick** is a minimalistic Hugo blogging theme. The theme is inspired from [Poole](https://getpoole.com) and [Listed](https://github.com/ronv/listed)
+This website is built based on [hugo](https://github.com/gohugoio/hugo) (theme [Maverick](https://maverick.canhtran.me/) is used) , and I referred to this article: [如何零基础免费搭建个人网站](https://hongtaoh.com/cn/2021/03/02/personal-website-tutorial/).
 
-### Features
-
-- Minimalistic, clean and simple design
-- Responsive design
-- Inline CSS
-- Anchor headings
-- Tags
-- 404 page
-- Compressed CSS and HTML
-- 100/100 score on Lighthouse, Page Speed Insights & Webpagetest
-- Robots.txt
-- Ultra fast
-- Github comment
+I truly appreciate them and the open source environment!
