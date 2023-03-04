@@ -1,6 +1,6 @@
-baseURL = 'https://maverick.canhtran.me'
+baseURL = 'https://ChenLi2049.github.io'
 languageCode = 'en-us'
-title = 'Maverick'
+title = 'ChenLi'
 paginate = 3
 theme = 'maverick'
 
@@ -9,11 +9,11 @@ theme = 'maverick'
 
 [params]
   logo = '/assets/favicon.ico'
-  description = "A minimal hugo theme focus on content"
-  author = 'Calvin Tran'
+  description = "Chen Li's personal blog"
+  author = 'Chen Li'
 
   [params.comments]
-    githubRepo = 'canhtran/maverick'
+    githubRepo = 'ChenLi2049/ChenLi2049.github.io'
     theme = 'github-light'
 
 
