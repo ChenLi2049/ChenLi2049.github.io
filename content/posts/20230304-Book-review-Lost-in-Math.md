@@ -1,6 +1,6 @@
 ---
 author: "Chen Li"
-title: "Book review：Lost in Math: How Beauty Leads Physics Astray"
+title: "Book review: Lost in Math: How Beauty Leads Physics Astray"
 date: "2023-03-04"
 tags: 
 - Physics
@@ -13,7 +13,7 @@ So there is this basic conflict between beauty and resources, where beauty means
 
 To be more clear, beauty means:
 1. Simplicity, or [Occam's razor](https://en.wikipedia.org/wiki/Occam%27s_razor).
-2. "This-has-to-be-it". The [E8 Group](https://en.wikipedia.org/wiki/E8_(mathematics) is the largest and most complicated group of exceptional Lie Groups. And in the paper [_An Exceptionally Simple Theory of Everything_](https://arxiv.org/abs/0711.0770), Antony Garrett Lisi uses it to, well, explain everything. Sadly, this is not "it".
+2. "This-has-to-be-it". The [E8 Group](https://en.wikipedia.org/wiki/E8_(mathematics)) is the largest and most complicated group of exceptional Lie Groups. And in the paper [_An Exceptionally Simple Theory of Everything_](https://arxiv.org/abs/0711.0770), Antony Garrett Lisi uses it to, well, explain everything. Sadly, this is not "it".
 3. "There-must-be-one-theory-to-rule-them-all". "There is a consistance in everything and thus it can be explained by one theory." I suppose Chaos thoery is good point agianst that.
 4. "Smaller-means-simpler". From the perspective of biology to chemistry to particle physics, the structure gets simpler and simpler, so it is natural to assume that it would get even simpler when it gets even smaller. But in the book Sabine pointed out that when you start from a different scale, ie. from the universe to life on earth, it gets more complicated.[^1]
 5. Let's be honest here, peer pressure. In the book Sabine give us an example of how two labs constantly give contradictory results when measuring the mass of a particle. Well, in astronomy, sadly, there is also this kind of stuff, it happened when measuring the $H_0$ constant.[^2] Always remind yourself: __DO YOU HAVE BIAS?__[^3] Speaking of peer pressure, I know a great book teaching you how to survive that: [_A PhD is not enough_](http://hep.tsinghua.edu.cn/training/courses/gauge.html/advise/A%20PhD%20is%20not%20enough.pdf).
