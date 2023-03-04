@@ -4,6 +4,6 @@
 
 Hi, This is Chen Li (李琛)'s personal website, where I talk about Physics, Computer Science, and flims.
 
-I'm working on a bachelor's degree in Wuhan University.
+I'm working on a bachelor's degree in Physics, in Wuhan University.
 
 The website is currently unfinished, I'm still working on it.
