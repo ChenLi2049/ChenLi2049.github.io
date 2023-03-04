@@ -24,7 +24,7 @@ What's more, I truly appreciate her honesty and bravery. She knows clearly that 
 
 I think I have refound what got me into physics in the first place, though I can't tell what it is exactly. I can't wait to go on yet another Odyssey with her next book: [_Existential Physics: A Scientist's Guide to Life's Biggest Questions_](https://www.amazon.com/Existential-Physics-Scientists-Biggest-Questions/dp/1984879456). I'm a big fan of Jean-Paul Sartre and Existentialism, maybe they would show up. 
 
-I know there are a lot of questions, and I want to deal with them.
+I know there are questions, and I want to deal with them.
 
 [^1]: Fermi parodox?
 [^2]: Although nowadays it is possible that the difference bewteen two measuments is a sign of new science. see [1903.07603](https://arxiv.org/abs/1903.07603). Notice the magnitude of $H_0$ in that paper is _not_ the same in the picture above.
