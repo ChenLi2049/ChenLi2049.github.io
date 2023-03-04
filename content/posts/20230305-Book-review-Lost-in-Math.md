@@ -27,5 +27,5 @@ I think I have refound what got me into physics in the first place, though I can
 I know there are a lot of questions, and I want to deal with them.
 
 [^1]: Fermi parodox?
-[^2]: Although nowadays it is possible that the difference bewteen two measuments is a sign of new science. see [1903.07603](https://arxiv.org/abs/1903.07603). Notice the magnitude of $H_0$ in this paper is _not_ the same in the picture above.
+[^2]: Although nowadays it is possible that the difference bewteen two measuments is a sign of new science. see [1903.07603](https://arxiv.org/abs/1903.07603). Notice the magnitude of $H_0$ in that paper is _not_ the same in the picture above.
 [^3]: I guess Deep Learning is kind of like using bias?
