@@ -1,6 +1,6 @@
 ---
 author: "Chen Li"
-title: "Hell World"
+title: "Hello World"
 date: "2023-03-04"
 tags: 
 - CS
