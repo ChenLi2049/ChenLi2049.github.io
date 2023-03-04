@@ -6,4 +6,4 @@ tags:
 - CS
 ---
 
-Hello World
+Hello World!
