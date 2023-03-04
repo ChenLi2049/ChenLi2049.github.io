@@ -1,6 +1,6 @@
 ---
 author: "Chen Li"
-title: "_There Will Be Blood_, _A Bright Summer Day_ and _Evangelion_"
+title: "There Will Be Blood, A Bright Summer Day, Evangelion"
 date: "2023-03-04"
 tags: 
 - flims
