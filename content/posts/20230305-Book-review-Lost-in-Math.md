@@ -18,7 +18,7 @@ To be more clear, beauty means:
 5. Let's be honest here, peer pressure. In the book Sabine give us an example of how two labs constantly give contradictory results when measuring the mass of a particle. Well, in astronomy, sadly, there is also this kind of stuff, it happened when measuring the $H_0$ constant.[^2] Always remind yourself: __DO YOU HAVE BIAS?__[^3] Speaking of peer pressure, I know a great book teaching you how to survive that: [_A PhD is not enough_](http://hep.tsinghua.edu.cn/training/courses/gauge.html/advise/A%20PhD%20is%20not%20enough.pdf).
 6. She pointed out that the idea of Beauty is constantly changing. For example, we used to consider an elliptical orbit as ugly. (To be honest, I suppose most people still do. ) Thus it can't be used as a guidance. I agree with Feynman that we should look for the truth no matter whether there is an ultimate truth or it's like onions with multiple layers. But what is the guidance then? Beauty is probably not.
 
-There are much more solid points like this in the book, and it always blows my mind or makes me laugh so hard, just like her youtube videos, for example, [What is "Nothing"?](https://www.youtube.com/watch?v=PhfqdBk8qxk).
+There are much more solid points like these in the book, and it always blows my mind or makes me laugh so hard, just like her youtube videos, for example, [What is "Nothing"?](https://www.youtube.com/watch?v=PhfqdBk8qxk).
 
 What's more, I truly appreciate her honesty and bravery. She knows clearly that she is almost exclusively going to face a witch hunt after writing this book, but this is her true feelings after decades of research on particle physics. And there is that.
 
