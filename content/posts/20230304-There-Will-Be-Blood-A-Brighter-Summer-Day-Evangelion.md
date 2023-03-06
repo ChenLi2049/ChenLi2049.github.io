@@ -4,7 +4,7 @@ title: "There Will Be Blood, A Brighter Summer Day, Evangelion"
 date: "2023-03-04"
 tags: 
 - films
-math:true
+math: true
 ---
 
 ___Spoiler Alert!___
@@ -18,7 +18,7 @@ I believe every good piece of media has the potential to become a [genre](https:
 <img src= "https://external-preview.redd.it/qpK4KKsfBT6-7SW862BdcT4COOuHw41XwPQsExtektA.jpg?auto=webp&v=enabled&s=fe30c0b4bf4ccc09460acc1d2e456530cb90ad9c">
 
 |Elements|_There Will Be Blood_|_A Brighter Summer Day_|_Evangelion_|
-|---------|---------|---------|---------|
+|:-|:-|:-|:-|
 |man vs. nature|the first scene where he digs|illness|shito|
 |man vs. man|his colleges and counter companies|those of his schoolmates who are richer, teacher|anybody around him really|
 |man vs. society|villagers, church|school|class|
