@@ -9,7 +9,7 @@ body {
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
     padding: 2rem;
-    background: hsla(93, 0%, 96%, 1.00);
+    background: rbg(169, 169, 169, 1.00);
     color: #000;
 }
 
@@ -240,10 +240,9 @@ img {
 }
 
 .avatar {
-    height: 120px;
-    width: 120px;
+    height: 100px;
+    width: 100px;
     position: relative;
-    margin: -10px 0 0 15px;
+    margin: 0px 0 0 0px;
     float: right;
-    border-radius: 50%;
 }

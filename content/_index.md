@@ -1,6 +1,6 @@
 ## Hi there!
 
-<img class="avatar" src="https://avataaars.io/?avatarStyle=Circle&topType=ShortHairShortCurly&accessoriesType=Prescription02&hairColor=Black&facialHairType=Blank&clotheType=BlazerShirt&eyeType=Happy&eyebrowType=DefaultNatural&mouthType=Default&skinColor=Pale" alt="avatar">
+<img class="avatar" src="https://img2.doubanio.com/icon/up223421167-2.jpg" alt="avatar">
 
 This is Chen Li (李琛)'s personal website, where I talk about Physics, Computer Science, and films. (Yes, the number in the URL comes from _Blade Runner 2049_, a sequel lives up to its potential. )
 
