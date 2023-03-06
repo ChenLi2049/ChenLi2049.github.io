@@ -1,6 +1,6 @@
 baseURL = 'https://ChenLi2049.github.io'
 languageCode = 'en-us'
-title = 'ChenLi'
+title = 'Chen Li'
 paginate = 3
 theme = 'maverick'
 
