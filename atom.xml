@@ -1,16 +1,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>ChenLi</title><description>Chen Li's personal blog</description><link>https://ChenLi2049.github.io</link><language>en</language><copyright>Copyright 2023, Calvin Tran</copyright><lastBuildDate>Sat, 04 Mar 2023 00:00:00 +0000</lastBuildDate><generator>Hugo - gohugo.io</generator><docs>http://cyber.harvard.edu/rss/rss.html</docs><atom:link href="https://ChenLi2049.github.io/atom.xml" rel="self" type="application/atom+xml"/><item><title>Book review: Lost in Math: How Beauty Leads Physics Astray</title><link>https://ChenLi2049.github.io/posts/20230304-book-review-lost-in-math/</link><description>&lt;p>This is a review of &lt;a href="https://sabinehossenfelder.com/">Sabine Hossenfelder&lt;/a>&amp;rsquo;s book &lt;a href="https://www.amazon.com/Lost-Math-Beauty-Physics-Astray/dp/0465094252">&lt;em>Lost in Math: How Beauty Leads Physics Astray&lt;/em>&lt;/a>.&lt;/p>
+&lt;p>Before I start, I just want to say that I am no expert in particle physics or any physics really, thus I can&amp;rsquo;t tell whether what she said is true or not, but what I can tell is that as I gradully learn more about the science community, I notice a trend that is simular to what she said in the book, which is that many of us are stuck here due to &amp;ldquo;beauty&amp;rdquo;. And I want to do better, maybe her book will help.&lt;/p>
 &lt;p>So there is this basic conflict between beauty and resources, where beauty means the standard we use to judge whether a theory is good or not, while resources means money, time, energy, etc. The latter one is something we cannot avoid, but the first one is something we can change, and I truly hope so.&lt;/p>
 &lt;p>To be more clear, beauty means:&lt;/p>
 &lt;ol>
 &lt;li>Simplicity, or &lt;a href="https://en.wikipedia.org/wiki/Occam%27s_razor">Occam&amp;rsquo;s razor&lt;/a>.&lt;/li>
 &lt;li>&amp;ldquo;This-has-to-be-it&amp;rdquo;. The E8 Group is the largest and most complicated group of exceptional Lie Groups. And in the paper &lt;a href="https://arxiv.org/abs/0711.0770">&lt;em>An Exceptionally Simple Theory of Everything&lt;/em>&lt;/a>, Antony Garrett Lisi uses it to, well, explain everything. Sadly, this is not &amp;ldquo;it&amp;rdquo;.&lt;/li>
-&lt;li>&amp;ldquo;There-must-be-one-theory-to-rule-them-all&amp;rdquo;. &amp;ldquo;There is a consistance in everything and thus it can be explained by one theory.&amp;rdquo; I suppose Chaos thoery is good point agianst that.&lt;/li>
+&lt;li>&amp;ldquo;There-must-be-one-theory-to-rule-them-all&amp;rdquo;. &amp;ldquo;There is a consistance in everything and thus it can be explained by one theory.&amp;rdquo; I suppose Chaos thoery is good counterpoint.&lt;/li>
 &lt;li>&amp;ldquo;Smaller-means-simpler&amp;rdquo;. From the perspective of biology to chemistry to particle physics, the structure gets simpler and simpler, so it is natural to assume that it would get even simpler when it gets even smaller. But Sabine pointed out that when you start from a different scale, ie. from the universe to life on earth, it gets more complicated.&lt;sup id="fnref:1">&lt;a href="#fn:1" class="footnote-ref" role="doc-noteref">1&lt;/a>&lt;/sup>&lt;/li>
-&lt;li>Let&amp;rsquo;s be honest here, peer pressure. In the book Sabine give us an example of how two labs constantly give contradictory results when measuring the mass of a particle. Well, in astronomy, sadly, there is also this kind of stuff, it happened when measuring the $H_0$ constant.&lt;sup id="fnref:2">&lt;a href="#fn:2" class="footnote-ref" role="doc-noteref">2&lt;/a>&lt;/sup> Always remind yourself: &lt;strong>ARE YOU BIASED?&lt;/strong>&lt;sup id="fnref:3">&lt;a href="#fn:3" class="footnote-ref" role="doc-noteref">3&lt;/a>&lt;/sup> Speaking of peer pressure, I happen to know a book teaching you how to survive that: &lt;a href="http://hep.tsinghua.edu.cn/training/courses/gauge.html/advise/A%20PhD%20is%20not%20enough.pdf">&lt;em>A PhD is not enough&lt;/em>&lt;/a>.&lt;/li>
-&lt;li>Sabine pointed out that the idea of Beauty is constantly changing. For example, we used to consider an elliptical orbit as ugly. (To be honest, I suppose most people still do. ) Thus it can&amp;rsquo;t be used as a guidance. I agree with Feynman that we should look for the truth no matter whether there is an ultimate truth or it&amp;rsquo;s like onions with multiple layers. But what is the guidance then? Beauty is probably not.&lt;/li>
 &lt;/ol>
+&lt;p>Let&amp;rsquo;s be honest here, peer pressure is also holding us back. In the book Sabine give us an example of how two labs constantly give contradictory results when measuring the mass of a particle. Well, in astronomy, sadly, there is also this kind of stuff, it happened when measuring the $H_0$ constant.&lt;sup id="fnref:2">&lt;a href="#fn:2" class="footnote-ref" role="doc-noteref">2&lt;/a>&lt;/sup> Always remind yourself: &lt;strong>ARE YOU BIASED?&lt;/strong>&lt;sup id="fnref:3">&lt;a href="#fn:3" class="footnote-ref" role="doc-noteref">3&lt;/a>&lt;/sup> Speaking of peer pressure, I happen to know a book teaching you how to survive that: &lt;a href="http://hep.tsinghua.edu.cn/training/courses/gauge.html/advise/A%20PhD%20is%20not%20enough.pdf">&lt;em>A PhD is not enough&lt;/em>&lt;/a>.&lt;/p>
+&lt;p>Sabine also pointed out that the idea of Beauty is constantly changing. For example, we used to consider an elliptical orbit as ugly. (To be honest, I suppose most people still do. ) Thus it can&amp;rsquo;t be used as a guidance. I agree with Feynman that we should look for the truth no matter whether there is an ultimate truth or it&amp;rsquo;s like onions with multiple layers. But what is the guidance then? Beauty is probably not.&lt;/p>
 &lt;p>There are much more solid points like these in the book, and it always blows my mind or makes me laugh so hard, just like her Youtube videos, for example, &lt;a href="https://www.youtube.com/watch?v=PhfqdBk8qxk">What is &amp;ldquo;Nothing&amp;rdquo;?&lt;/a>.&lt;/p>
-&lt;p>What&amp;rsquo;s more, I truly appreciate her honesty and bravery. She knows clearly that she is almost exclusively going to face a witch hunt after writing this book, but this is her true feelings after &lt;a href="https://scholar.google.com/citations?user=NaQZcyYAAAAJ&amp;amp;hl=en">decades of research&lt;/a> on physics. And there is that.&lt;/p>
+&lt;p>What&amp;rsquo;s more, I truly appreciate her honesty and bravery. It takes a lot of guts to say that what thousands of people are doing is wrong, after all it&amp;rsquo;s their job, and criticizng it will definitely get negative feedbacks, some of which will be personal and hurtful. But I think this Satre-Camus thing is something we should avoid. She means well and criticism is good for your work anyway, so let&amp;rsquo;s just focus on the work rather than fighting. That being said, she knows clearly that she is almost exclusively going to face a witch hunt after writing this book, but this is her true feelings after &lt;a href="https://scholar.google.com/citations?user=NaQZcyYAAAAJ&amp;amp;hl=en">decades of research&lt;/a> on physics. And there is that.&lt;/p>
 &lt;p>I think I have refound what got me into physics in the first place, though I can&amp;rsquo;t tell what it is exactly. I can&amp;rsquo;t wait to go on yet another Odyssey with her next book: &lt;a href="https://www.amazon.com/Existential-Physics-Scientists-Biggest-Questions/dp/1984879456">&lt;em>Existential Physics: A Scientist&amp;rsquo;s Guide to Life&amp;rsquo;s Biggest Questions&lt;/em>&lt;/a>. I&amp;rsquo;m a big fan of Jean-Paul Sartre and Existentialism, maybe they would show up.&lt;/p>
 &lt;p>I know there are unresolved questions, and I want to deal with them.&lt;/p>
 &lt;div class="footnotes" role="doc-endnotes">
@@ -20,11 +21,94 @@
 &lt;p>Fermi parodox?&amp;#160;&lt;a href="#fnref:1" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li id="fn:2">
-&lt;p>Although nowadays it is possible that the difference bewteen two measuments is a sign of new science. see &lt;a href="https://arxiv.org/abs/1903.07603">1903.07603&lt;/a>. Notice the magnitude of $H_0$ in that paper is &lt;em>not&lt;/em> the same in the picture above.&amp;#160;&lt;a href="#fnref:2" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
+&lt;p>Although nowadays it is possible that the difference between two measuments is a sign of new science. see &lt;a href="https://arxiv.org/abs/1903.07603">1903.07603&lt;/a>. Notice the magnitude of $H_0$ in that paper is &lt;em>not&lt;/em> the same in the picture above.&amp;#160;&lt;a href="#fnref:2" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li id="fn:3">
-&lt;p>I guess Deep Learning is kind of like using bias?&amp;#160;&lt;a href="#fnref:3" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
+&lt;p>You can know more about bias in her book, &amp;ldquo;are you biased&amp;rdquo; is an oversimplified statement, like many of the statements in this article. :)&amp;#160;&lt;a href="#fnref:3" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ol>
-&lt;/div></description><author>Chen Li</author><guid>https://ChenLi2049.github.io/posts/20230304-book-review-lost-in-math/</guid><pubDate>Sat, 04 Mar 2023 00:00:00 +0000</pubDate></item><item><title>RSS: Why and How?</title><link>https://ChenLi2049.github.io/posts/20230304-rss-why-and-how/</link><description>&lt;p>RSS: Why and How?&lt;/p></description><author>Chen Li</author><guid>https://ChenLi2049.github.io/posts/20230304-rss-why-and-how/</guid><pubDate>Sat, 04 Mar 2023 00:00:00 +0000</pubDate></item><item><title>There Will Be Blood, A Bright Summer Day, Evangelion</title><link>https://ChenLi2049.github.io/posts/20230304-there-will-be-blood-a-brighter-summer-day-evangelion/</link><description>&lt;p>This article is a comparision between &lt;a href="https://www.imdb.com/title/tt0469494/">&lt;em>There Will Be Blood&lt;/em>&lt;/a>, &lt;a href="https://www.imdb.com/title/tt0101985/">&lt;em>A Bright Summer Day&lt;/em>&lt;/a> and &lt;em>Evangelion&lt;/em> (Only &lt;a href="https://www.imdb.com/title/tt0112159/">&lt;em>TV&lt;/em>&lt;/a> and &lt;a href="https://www.imdb.com/title/tt0169858/">&lt;em>Old film&lt;/em>&lt;/a> this time). We should talk about why good things are good instead of why bad things are bad, because what really matters is &lt;a href="https://www.imdb.com/title/tt0060196/">the good, not the bad, or the ugly&lt;/a>. This three films/anime are the best work I have watched and I want to know why I like them.&lt;/p>
-&lt;p>Before I start, I want to mention that a director is a lot like a science researcher. You can see consistency in their work, and directing flims is like publishing papers, winning awards publishing on &lt;em>Nature&lt;/em>. But I&amp;rsquo;ll talk about &lt;a href="https://en.wikipedia.org/wiki/Auteur">that&lt;/a> some other time. For this reason, I‘ll not talk about the &lt;a href="https://en.wikipedia.org/wiki/Rebuild_of_Evangelion">&lt;em>Rebuild of Evangelion&lt;/em>&lt;/a> for now, although I have to say that I have rather complicated feelings about that.&lt;/p></description><author>Chen Li</author><guid>https://ChenLi2049.github.io/posts/20230304-there-will-be-blood-a-brighter-summer-day-evangelion/</guid><pubDate>Sat, 04 Mar 2023 00:00:00 +0000</pubDate></item><item><title>显卡坞(GPU dock)：戴尔inspiron-13和寒武纪</title><link>https://ChenLi2049.github.io/posts/20230304-gpu-dock/</link><description>&lt;p>This is an article about GPU dock.&lt;/p></description><author>Chen Li</author><guid>https://ChenLi2049.github.io/posts/20230304-gpu-dock/</guid><pubDate>Sat, 04 Mar 2023 00:00:00 +0000</pubDate></item><item><title>Hello World</title><link>https://ChenLi2049.github.io/posts/20230303-hello-world/</link><description>&lt;p>Hello World!&lt;/p></description><author>Chen Li</author><guid>https://ChenLi2049.github.io/posts/20230303-hello-world/</guid><pubDate>Fri, 03 Mar 2023 00:00:00 +0000</pubDate></item></channel></rss>
+&lt;/div></description><author>Chen Li</author><guid>https://ChenLi2049.github.io/posts/20230304-book-review-lost-in-math/</guid><pubDate>Sat, 04 Mar 2023 00:00:00 +0000</pubDate></item><item><title>RSS: Why and How?</title><link>https://ChenLi2049.github.io/posts/20230304-rss-why-and-how/</link><description>&lt;p>RSS: Why and How?&lt;/p></description><author>Chen Li</author><guid>https://ChenLi2049.github.io/posts/20230304-rss-why-and-how/</guid><pubDate>Sat, 04 Mar 2023 00:00:00 +0000</pubDate></item><item><title>There Will Be Blood, A Brighter Summer Day, Evangelion</title><link>https://ChenLi2049.github.io/posts/20230304-there-will-be-blood-a-brighter-summer-day-evangelion/</link><description>&lt;p>&lt;em>&lt;strong>Spoiler Alert!&lt;/strong>&lt;/em>&lt;/p>
+&lt;p>This article is a comparision between &lt;a href="https://www.imdb.com/title/tt0469494/">&lt;em>There Will Be Blood&lt;/em>&lt;/a>, &lt;a href="https://www.imdb.com/title/tt0101985/">&lt;em>A Brighter Summer Day&lt;/em>&lt;/a> and &lt;em>Evangelion&lt;/em> (Only &lt;a href="https://www.imdb.com/title/tt0112159/">&lt;em>TV&lt;/em>&lt;/a> and &lt;a href="https://www.imdb.com/title/tt0169858/">&lt;em>Old film&lt;/em>&lt;/a> this time). We should talk about why good things are good instead of why bad things are bad, because what really matters is &lt;a href="https://www.imdb.com/title/tt0060196/">the good, not the bad, or the ugly&lt;/a>. This three films/anime are the best work I have watched and I want to know why I like them. Although these works come from different culture, they have a lot in common.&lt;/p>
+&lt;p>Before I start, I want to mention that a director is a lot like a science researcher. You can see consistency in their work, and directing films is like publishing papers, winning awards publishing on &lt;em>Nature&lt;/em>. But I&amp;rsquo;ll talk about &lt;a href="https://en.wikipedia.org/wiki/Auteur">that&lt;/a> in another article. For this reason, I will not talk about the &lt;a href="https://en.wikipedia.org/wiki/Rebuild_of_Evangelion">&lt;em>Rebuild of Evangelion&lt;/em>&lt;/a> for now, although I have to say that I have rather complicated feelings about it.&lt;/p>
+&lt;p>I believe every good piece of media has the potential to become a &lt;a href="https://en.wikipedia.org/wiki/Film_genre">genre&lt;/a>. And when we talk about genres, we are actually talking about elements we see. So here is list of elenments that I see in this new genre. The table below is largely inspired by &lt;a href="https://www.reddit.com/r/evangelionmemes/comments/84gbva/conflict_in_evangelion/">this meme&lt;/a>:&lt;/p>
+&lt;img src= "https://external-preview.redd.it/qpK4KKsfBT6-7SW862BdcT4COOuHw41XwPQsExtektA.jpg?auto=webp&amp;v=enabled&amp;s=fe30c0b4bf4ccc09460acc1d2e456530cb90ad9c">
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th style="text-align:left">Elements&lt;/th>
+&lt;th style="text-align:left">&lt;em>There Will Be Blood&lt;/em>&lt;/th>
+&lt;th style="text-align:left">&lt;em>A Brighter Summer Day&lt;/em>&lt;/th>
+&lt;th style="text-align:left">&lt;em>Evangelion&lt;/em>&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td style="text-align:left">man vs. nature&lt;/td>
+&lt;td style="text-align:left">the first scene where he digs&lt;/td>
+&lt;td style="text-align:left">illness&lt;/td>
+&lt;td style="text-align:left">shito&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:left">man vs. man&lt;/td>
+&lt;td style="text-align:left">his colleges and counter companies&lt;/td>
+&lt;td style="text-align:left">those of his schoolmates who are richer, teacher&lt;/td>
+&lt;td style="text-align:left">anybody around him really&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:left">man vs. society&lt;/td>
+&lt;td style="text-align:left">villagers, church&lt;/td>
+&lt;td style="text-align:left">school&lt;/td>
+&lt;td style="text-align:left">class&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:left">man vs. god&lt;/td>
+&lt;td style="text-align:left">his conflict with the church&lt;/td>
+&lt;td style="text-align:left">Chinese people don&amp;rsquo;t actually believe in god&lt;/td>
+&lt;td style="text-align:left">shito is kind of like &lt;a href="https://en.wikipedia.org/wiki/List_of_Japanese_deities">nature-god&lt;/a>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:left">man vs. author (meta)&lt;/td>
+&lt;td style="text-align:left">&amp;ldquo;I&amp;rsquo;m finished&amp;rdquo;&lt;/td>
+&lt;td style="text-align:left">Zhang Zhen uses his real name and real father&lt;/td>
+&lt;td style="text-align:left">TV episode 25,26&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:left">father-son conflict&lt;/td>
+&lt;td style="text-align:left">$\checkmark$&lt;/td>
+&lt;td style="text-align:left">$\checkmark$&lt;/td>
+&lt;td style="text-align:left">$\checkmark$&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:left">attitude towards human interraction&lt;/td>
+&lt;td style="text-align:left">&amp;ldquo;I want to earn enough money I can get away from everyone&amp;rdquo;&lt;/td>
+&lt;td style="text-align:left">&amp;ldquo;I&amp;rsquo;m like the world, it will never change&amp;rdquo;&lt;/td>
+&lt;td style="text-align:left">&lt;a href="https://en.wikipedia.org/wiki/Hedgehog%27s_dilemma">Hedgehog&amp;rsquo;s dilemma&lt;/a>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:left">the music is odd&lt;/td>
+&lt;td style="text-align:left">weird, vampire music&lt;/td>
+&lt;td style="text-align:left">&lt;/td>
+&lt;td style="text-align:left">soft songs with brutal scenes&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:left">the doom is inevitable&lt;/td>
+&lt;td style="text-align:left">Captalism&lt;/td>
+&lt;td style="text-align:left">family background, Kuomintang&lt;/td>
+&lt;td style="text-align:left">Dead Sea Scorlls&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:left">the doom started with the death of one of the protagonist&amp;rsquo;s closest friend&lt;/td>
+&lt;td style="text-align:left">his son is dead to him&lt;/td>
+&lt;td style="text-align:left">Honey&lt;/td>
+&lt;td style="text-align:left">Kaworu&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:left">at the end the protagonist murdered someone&lt;/td>
+&lt;td style="text-align:left">the degenerate godfather&lt;/td>
+&lt;td style="text-align:left">his girlfriend&lt;/td>
+&lt;td style="text-align:left">the entire humanity&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;p>I am not symtematically trained in films, and all my knowledge are from random places, so maybe there isn&amp;rsquo;t such a similarity, it&amp;rsquo;s just that all good stuffs have these point in common. Although the 5 &amp;ldquo;vs.&amp;rdquo; may be universal, the latter ones are not universal, I guess.&lt;/p>
+&lt;p>This article is currently unfinished, maybe these works have something in common in storyline, composition, etc. But I&amp;rsquo;ll need a rewatch to remind myself.&lt;/p></description><author>Chen Li</author><guid>https://ChenLi2049.github.io/posts/20230304-there-will-be-blood-a-brighter-summer-day-evangelion/</guid><pubDate>Sat, 04 Mar 2023 00:00:00 +0000</pubDate></item><item><title>显卡坞(GPU dock)：戴尔inspiron-13和寒武纪</title><link>https://ChenLi2049.github.io/posts/20230304-gpu-dock/</link><description>&lt;p>This is an article about GPU dock.&lt;/p></description><author>Chen Li</author><guid>https://ChenLi2049.github.io/posts/20230304-gpu-dock/</guid><pubDate>Sat, 04 Mar 2023 00:00:00 +0000</pubDate></item><item><title>Hello World</title><link>https://ChenLi2049.github.io/posts/20230303-hello-world/</link><description>&lt;p>Hello World!&lt;/p></description><author>Chen Li</author><guid>https://ChenLi2049.github.io/posts/20230303-hello-world/</guid><pubDate>Fri, 03 Mar 2023 00:00:00 +0000</pubDate></item></channel></rss>
