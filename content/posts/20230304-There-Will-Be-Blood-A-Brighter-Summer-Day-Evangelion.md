@@ -7,7 +7,7 @@ tags:
 math: true
 ---
 
-<center><font color=red>Spoiler Alert!</font></center>
+___Spoiler Alert!___
 
 This article is a comparision between [_There Will Be Blood_](https://www.imdb.com/title/tt0469494/), [_A Brighter Summer Day_](https://www.imdb.com/title/tt0101985/) and _Evangelion_ (Only [_TV_](https://www.imdb.com/title/tt0112159/) and [_Old film_](https://www.imdb.com/title/tt0169858/) this time). We should talk about why good things are good instead of why bad things are bad, because what really matters is [the good, not the bad, or the ugly](https://www.imdb.com/title/tt0060196/). This three films/anime are the best work I have watched and I want to know why I like them. Although these works come from different culture, they have a lot in common.
 

@@ -1,4 +1,4 @@
-## Hi there!
+## Hi there! 😺
 
 <img class="avatar" src="https://img2.doubanio.com/icon/up223421167-2.jpg" alt="avatar">
 
