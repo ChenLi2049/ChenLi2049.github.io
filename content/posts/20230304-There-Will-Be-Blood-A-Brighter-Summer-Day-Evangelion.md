@@ -33,6 +33,6 @@ I believe every good piece of media has the potential to become a [genre](https:
 |the doom started with the death of one of the protagonist's closest friend|his son is dead to him|Honey|Kaworu|
 |at the end the protagonist murdered someone|the degenerate godfather|his girlfriend|the entire humanity|
 
-I am not symtematically trained in films, and all my knowledge are from random places, so maybe there isn't such a similarity, it's just that all good stuffs have these point in common. Although the 5 "vs."s may be universal, the latter ones are not universal, I guess.
+I am not symtematically trained in films, and all my knowledge are from random places, so maybe there isn't such a similarity, it's just that all good stuffs have these points in common. Although the 5 "vs."s may be universal, the latter ones are not universal, I guess.
 
 This article is currently unfinished, maybe these works have something in common in storyline, composition, etc. But I'll need a rewatch to remind myself. 
