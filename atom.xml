@@ -129,9 +129,9 @@
 &lt;/tbody>
 &lt;/table>
 &lt;p>I am not systematically trained in films, and all my knowledge are from random places, so maybe there isn&amp;rsquo;t such a similarity, it&amp;rsquo;s just that all good stuffs have these points in common. Although the 5 &amp;ldquo;vs.&amp;ldquo;s may be universal, the latter ones are not universal, I guess.&lt;/p>
-&lt;p>This article is currently unfinished, maybe these works have something in common in storyline, composition, etc. But I&amp;rsquo;ll need a rewatch to remind myself.&lt;/p></description><author>Chen Li</author><guid>https://ChenLi2049.github.io/posts/20230304-there-will-be-blood-a-brighter-summer-day-evangelion/</guid><pubDate>Sat, 04 Mar 2023 00:00:00 +0000</pubDate></item><item><title>寒武纪MLU370-X4安装在本地服务器上</title><link>https://ChenLi2049.github.io/posts/20230304-gpu-dock/</link><description>&lt;p>&lt;strong>还未经测试!&lt;/strong>&lt;/p>
+&lt;p>This article is currently unfinished, maybe these works have something in common in storyline, composition, etc. But I&amp;rsquo;ll need a rewatch to remind myself.&lt;/p></description><author>Chen Li</author><guid>https://ChenLi2049.github.io/posts/20230304-there-will-be-blood-a-brighter-summer-day-evangelion/</guid><pubDate>Sat, 04 Mar 2023 00:00:00 +0000</pubDate></item><item><title>寒武纪MLU370-X4安装在本地服务器的ubuntu上</title><link>https://ChenLi2049.github.io/posts/20230304-gpu-dock/</link><description>&lt;p>&lt;strong>还未经测试!&lt;/strong>&lt;/p>
 &lt;p>显卡：&lt;a href="https://www.cambricon.com/index.php?m=content&amp;amp;c=index&amp;amp;a=lists&amp;amp;catid=371">寒武纪MLU370-X4&lt;/a>。&lt;/p>
-&lt;p>显卡坞的解决方式恐怕不行，因为如果重新更换设备需要重新从&lt;code>ubuntu&lt;/code>开始装起，不如在另一台机器上构建一个本地服务器。而且我的硬盘容量不够了。:(&lt;/p>
+&lt;p>显卡坞的解决方式恐怕不行，因为如果重新更换设备需要重新从&lt;code>ubuntu&lt;/code>开始装起，不如在另一台机器上构建一个本地服务器。除此之外的问题还有：笔记本自带的核显会打架吗？硬盘容量不够了。:(&lt;/p>
 &lt;p>视频介绍（除3.几乎完全是这个&lt;a href="https://zhuanlan.zhihu.com/p/591827529">知乎专栏&lt;/a>的内容）：&lt;/p>
 &lt;ol>
 &lt;li>&lt;a href="https://www.bilibili.com/video/BV1Be4y1o7Jx/">寒武纪 MLU370 加速卡简介及安装&lt;/a>&lt;/li>
