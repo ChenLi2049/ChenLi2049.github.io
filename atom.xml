@@ -147,7 +147,7 @@
 &lt;ol>
 &lt;li>安装&lt;code>windows10&lt;/code>系统，如果直接从&lt;code>Linux&lt;/code>系统开始装需要对&lt;code>Linux&lt;/code>命令很熟悉，而且查资料会非常麻烦，e.g. 会出现&lt;a href="https://blog.csdn.net/qq_42257666/article/details/118684372">wifi的问题&lt;/a>。&lt;strong>这款显卡是适用于服务器的，能做这一步吗？&lt;/strong>&lt;/li>
 &lt;li>使用&lt;code>WSL&lt;/code>安装&lt;code>ubuntu&lt;/code>，版本号见视频介绍：&lt;strong>16.04或18.04?&lt;/strong>&lt;/li>
-&lt;li>按照视频介绍安装&lt;code>torch.mlu&lt;/code>组件等等（和&lt;a href="https://zh.d2l.ai/">&lt;em>Dive into Deep Learning&lt;/em>&lt;/a>&lt;sup id="fnref:1">&lt;a href="#fn:1" class="footnote-ref" role="doc-noteref">1&lt;/a>&lt;/sup>这本书不同的地方在于，寒武纪在使用&lt;code>pytorch&lt;/code>时导入&lt;code>torch&lt;/code>和&lt;code>torch.mlu&lt;/code>即可，不需安装&lt;code>torchvision&lt;/code>即&lt;code>pytorch&lt;/code>的GPU版本，此处mlu和gpu是两个相对的概念）&lt;/li>
+&lt;li>按照视频介绍安装&lt;code>torch.mlu&lt;/code>组件等等（和&lt;a href="https://zh.d2l.ai/">&lt;em>Dive into Deep Learning&lt;/em>&lt;/a>&lt;sup id="fnref:1">&lt;a href="#fn:1" class="footnote-ref" role="doc-noteref">1&lt;/a>&lt;/sup>这本书不同的地方在于，寒武纪在使用&lt;code>pytorch&lt;/code>时导入&lt;code>torch&lt;/code>和&lt;code>torch.mlu&lt;/code>即可，不需安装&lt;code>torchvision&lt;/code>即&lt;code>pytorch&lt;/code>的GPU版本，此处mlu和gpu是两个相对的概念，指调用的底层架构不同）&lt;/li>
 &lt;li>安装&lt;code>JupyterNotebook&lt;/code>。&lt;strong>如何安装？&lt;/strong>&lt;/li>
 &lt;li>尝试寒武纪开发的工具&lt;a href="https://www.cambricon.com/docs/sdk_1.10.0/magicmind_1.1.0/user_guide/index.html">&lt;code>MagicMind&lt;/code>&lt;/a>和&lt;code>YOLOv5&lt;/code>。见&lt;a href="https://gitee.com/cambricon">Cambricon(gitee.com)&lt;/a>。&lt;/li>
 &lt;/ol>
